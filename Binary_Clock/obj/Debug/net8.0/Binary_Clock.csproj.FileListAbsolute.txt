@@ -1,0 +1,14 @@
+C:\Users\Any\OneDrive\Desktop\Binary Clock\Binary_Clock\bin\Debug\net8.0\Binary_Clock.exe
+C:\Users\Any\OneDrive\Desktop\Binary Clock\Binary_Clock\bin\Debug\net8.0\Binary_Clock.deps.json
+C:\Users\Any\OneDrive\Desktop\Binary Clock\Binary_Clock\bin\Debug\net8.0\Binary_Clock.runtimeconfig.json
+C:\Users\Any\OneDrive\Desktop\Binary Clock\Binary_Clock\bin\Debug\net8.0\Binary_Clock.dll
+C:\Users\Any\OneDrive\Desktop\Binary Clock\Binary_Clock\bin\Debug\net8.0\Binary_Clock.pdb
+C:\Users\Any\OneDrive\Desktop\Binary Clock\Binary_Clock\obj\Debug\net8.0\Binary_Clock.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Any\OneDrive\Desktop\Binary Clock\Binary_Clock\obj\Debug\net8.0\Binary_Clock.AssemblyInfoInputs.cache
+C:\Users\Any\OneDrive\Desktop\Binary Clock\Binary_Clock\obj\Debug\net8.0\Binary_Clock.AssemblyInfo.cs
+C:\Users\Any\OneDrive\Desktop\Binary Clock\Binary_Clock\obj\Debug\net8.0\Binary_Clock.csproj.CoreCompileInputs.cache
+C:\Users\Any\OneDrive\Desktop\Binary Clock\Binary_Clock\obj\Debug\net8.0\Binary_Clock.dll
+C:\Users\Any\OneDrive\Desktop\Binary Clock\Binary_Clock\obj\Debug\net8.0\refint\Binary_Clock.dll
+C:\Users\Any\OneDrive\Desktop\Binary Clock\Binary_Clock\obj\Debug\net8.0\Binary_Clock.pdb
+C:\Users\Any\OneDrive\Desktop\Binary Clock\Binary_Clock\obj\Debug\net8.0\Binary_Clock.genruntimeconfig.cache
+C:\Users\Any\OneDrive\Desktop\Binary Clock\Binary_Clock\obj\Debug\net8.0\ref\Binary_Clock.dll
