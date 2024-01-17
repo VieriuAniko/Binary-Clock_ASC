@@ -10,8 +10,13 @@ namespace Binary_Clock
 
             string[,] binaryClock = new string[4, 6];
 
+            Console.Write("Ora --> ");
             hour = int.Parse(Console.ReadLine());
+
+            Console.Write("Minute --> ");
             minute = int.Parse(Console.ReadLine());
+
+            Console.Write("Secunde --> ");
             second = int.Parse(Console.ReadLine());
 
             if ((hour < 0 || hour > 23) || (minute < 0 || minute > 59) || (second < 0 || second > 59))

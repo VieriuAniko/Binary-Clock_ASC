@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Any\\OneDrive\\Desktop\\Binary Clock\\Binary_Clock\\Binary_Clock.csproj",
+      "projectUniqueName": "C:\\Users\\Any\\Source\\Repos\\Binary-Clock_ASC\\Binary_Clock\\Binary_Clock.csproj",
       "projectName": "Binary_Clock",
-      "projectPath": "C:\\Users\\Any\\OneDrive\\Desktop\\Binary Clock\\Binary_Clock\\Binary_Clock.csproj",
+      "projectPath": "C:\\Users\\Any\\Source\\Repos\\Binary-Clock_ASC\\Binary_Clock\\Binary_Clock.csproj",
       "packagesPath": "C:\\Users\\Any\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Any\\OneDrive\\Desktop\\Binary Clock\\Binary_Clock\\obj\\",
+      "outputPath": "C:\\Users\\Any\\Source\\Repos\\Binary-Clock_ASC\\Binary_Clock\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
