@@ -1,5 +1,3 @@
-﻿using System.Runtime.InteropServices.JavaScript;
-
 namespace Binary_Clock
 {
     internal class Program
